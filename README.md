@@ -1,6 +1,1 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
+<img src="https://camo.githubusercontent.com/49d49a7cf95bebd1fc5696726af41980d36254b8161c09d16982866f29eb14b7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d76656e6f6d266865696768743d32303026746578743d49253230616d25323056656e6f6d2e26666f6e7453697a653d373026636f6c6f723d303a3838373165352c3130303a623637386334267374726f6b653d623637386334"/>
