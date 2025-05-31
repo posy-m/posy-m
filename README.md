@@ -17,7 +17,6 @@
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
          </div>
